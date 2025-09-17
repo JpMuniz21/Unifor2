@@ -12,4 +12,5 @@
 - Otima commit
 - Nova commit
 - Merge branch
-- 
+- Remoção de branch antiga
+- Criação de uma nova branch
