@@ -10,3 +10,5 @@
 - Sexto commit
 - Setima commit
 - Otima commit
+- Nova commit
+- Merge algo na dev
